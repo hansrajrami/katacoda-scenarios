@@ -5,12 +5,19 @@
   "details": {
     "steps": [
       {
-        "title": "Step 1",
-        "text": "step1.md"
-      }
+        "title": "Deploy backend",
+        "text": "backend.md"
+      },
+      {
+        "title": "Deploy frontend",
+        "text": "frontend.md"
+      },
     ],
-    "finish": {
+    "intro": {
       "text": "finish.md"
+    },
+    "finish": {
+      "text": "intro.md"
     }
   },
   "environment": {
