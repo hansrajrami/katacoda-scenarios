@@ -15,4 +15,4 @@ Install pm2
 `npm install -g @angular/cli`{{execute}}
 
 Run portal
-`ng serve`
+`ng serve`{{execute}}

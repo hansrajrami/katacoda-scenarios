@@ -15,4 +15,4 @@ Install pm2
 `npm i -g pm2`{{execute}}
 
 Run API
-`pm2 start --name portal-api "node index.js"`
+`pm2 start --name portal-api "node index.js"`{{execute}}
