@@ -1,5 +1,5 @@
 {
-  "private": true,
+  "private": false,
   "title": "Portal deployment",
   "description": "Hands on lab for portal deployment",
   "details": {
